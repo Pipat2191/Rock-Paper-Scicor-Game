@@ -28,5 +28,4 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Team
-Add member names here.
+
